@@ -623,10 +623,10 @@ section{
 .footer .credit span{
     color:var(--orange);
 }
-
-
-
-
+.line{
+text-decoration: line-through;
+font-size: 162.5%;
+}
 
 
 
